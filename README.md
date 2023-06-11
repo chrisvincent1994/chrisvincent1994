@@ -1,0 +1,2 @@
+- 👋 Hi, I’m Chris
+- 🌱 I’m currently going through The Odin Project to learn how to build stuff
